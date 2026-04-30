@@ -112,18 +112,18 @@ This repository contains a collection of practical implementations covering core
 
 ## Project Structure
 
-```id="k3p91d"
+```id="z9l12x"
 ├── datasets/
-├── 1st.py
-├── 2nd.py
-├── 3rd.py
-├── 4th.py
-├── 5th.py
-├── 6th.py
-├── 7th.py
-├── 8th.py
-├── 9th.py
-├── 10th.py
+├── 1st.ipynb
+├── 2nd.ipynb
+├── 3rd.ipynb
+├── 4th.ipynb
+├── 5th.ipynb
+├── 6th.ipynb
+├── 7th.ipynb
+├── 8th.ipynb
+├── 9th.ipynb
+├── 10th.ipynb
 ├── README.md
 ```
 
@@ -145,6 +145,6 @@ This lab provides a foundation in Artificial Intelligence, Machine Learning, and
 
 ## Author
 
-Pragati
-B.Tech CSE (AI/ML), 6th Semester
-Model Institute of Engineering and Technology (MIET), Jammu
+* Pragati
+* B.Tech CSE (AI/ML), 6th Semester
+* Model Institute of Engineering and Technology (MIET), Jammu
